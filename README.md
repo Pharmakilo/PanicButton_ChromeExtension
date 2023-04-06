@@ -1,4 +1,5 @@
 # Panic Button - The Ultimate "Mom's Coming!" Chrome Extension
+# Now it is released in Chrome Web Store you can download from there : https://chrome.google.com/webstore/detail/panic-button/mglkbkfblclhiapcciclfblcncdabdhe?hl=tr
 Uh-oh! Someone's sneaking up on you while you're browsing the web, and you need to hide everything FAST? Don't worry! Panic Button has got your back! With our hilarious and sneaky Chrome extension, you'll never be caught off guard again.
 
 Panic Button is your digital superhero that swoops in to save the day when you need to vanish from the internet in the blink of an eye. Our extension is perfect for those moments when your mom, boss, or that nosy coworker suddenly appears and you just can't let them see what you're up to.
